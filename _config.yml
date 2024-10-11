@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Huang Xianfeng"
-  pronouns         : "her" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Success comes from unremitting efforts."
-  location         : "Wuhan China"
-  employer         : "Wuhan University"
+  location         : "China"
+  employer         : "WuHan University"
   uri              : # URL
   email            : "none@example.org" 
 
