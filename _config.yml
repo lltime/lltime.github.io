@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh"
-title                    : "黄先锋"
+title                    : "黄先锋的主页"
 title_separator          : "-"
 name                     : &name "黄先锋"
 description              : &description "个人主页"

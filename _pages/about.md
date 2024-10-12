@@ -7,21 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-黄先锋，博士，教授，博导。
+武汉大学测绘遥感信息工程国家重点实验室教授，航空航天摄影测量研究室主任，武汉大学文化遗产智能计算实验室（教育部文科实验室）副主任，香港科技大学（广州）兼职教授，发表论文80余篇，其中SCI 40余篇。
 
-`酷爱编程`，`对算法充满兴趣`，`喜欢挑战`，`不喜欢循规蹈矩`
+2006年博士毕业留实验室任教，其中，2010-2011在微软亚洲研究院访问研究，2012-2013在瑞士联邦理工大学从事城市建模、城市大数据感知方面的研究工作。长期从事计算机图形图像、测绘遥感技术在实景三维重建、文化遗产保护方面的研究工作。
 
-信条：科学无权威。
+在激光雷达和摄影测量技术在三维建模和文化遗产数字化保护方向的研究工作中，研发了基于摄影测量高质量三维自动建模、纹理优化等关键技术和大规模并行建模处理软件重建大师系列软件。技术应用于深圳、上海、广州、武汉、兰州等全国上百个城市的高精度三维重建、公共安全、应急场景、城市规划和自然资源等各种应用；以及包括敦煌研究院、云冈研究院、国家博物馆等国内几十家重要文化遗产保护单位的文物数字化保护和多个十大中国考古发现现场数字化记录中。
 
 **努力推动摄影测量技术应用与发展......**
 1. 历时10+年带队打造大规模自动影像三维重建集群（云）软件-重建大师，实现了基于影像三维重建核心技术的国产化替代，能够完全替换国外软件，支撑实景三维中国建设和各种场景快速高精度建模的需要。
 2. 在线自动三维重建云服务：[云端地球](https://www.get3d.cn/) 。（用电脑打开，不要用手机！）
-
-任职情况：
-- 武汉大学测绘遥感信息工程国家重点实验室 航空航天摄影测量研究室 主任                        
-- 香港科技大学(广州）兼职教授
-- 武汉大学 教育部文科实验室文化遗产智能计算实验室 副主任
-- 武汉大学 长江文明考古研究院 文物数字化技术研究室 副主任
 
 学习工作经历
 ======
@@ -30,7 +24,7 @@ redirect_from:
 
 2012~2013，苏黎世联邦理工学院（ETH Zurich）未来城市实验室（Future Cities Lab） Senior Reseacher
 
-2011~2012，微软亚洲研究院（Microsoft Research Asia)，Visiting Resercher
+2011~2012，微软亚洲研究院（Microsoft Research Asia），Visiting Resercher
 
 2008~2011，武汉大学 测绘遥感信息工程国家重点实验室 副教授，硕士生导师
 
@@ -60,6 +54,21 @@ redirect_from:
 
 摄影测量技术发展已经不再局限于相片自动重建，已经发展为：图像、视频、点云等多源数据的融合建模，数据的传感器平台可以是无人机、机器人、卫星等，场景重建的效率要实现从非实时发展到实时处理，从单人到多人协同处理。涉及研究内容包括：智能采集设备与数据预处理；大规模图像稳定匹配、解算关键技术；多机器协同自主采集与实时三维重建技术；面向海量图像建模的高IO吞吐并行计算构架；深度学习与摄影测量融合场景理解、优化关键技术；也在浅浅地尝试深空探测，如：行星测图、小行星建模领域。
 
+面向多种采集端的智能化采集技术与数据预处理技术
+![面向多种采集端](/images/about/00.png)
+
+图1：全自动三维重建、大规模并行处理、语义理解与优化（城市场景自动内容理解与建筑物分解）
+![建模技术](/images/about/01.jpg)
+
+图2：研究案例：三维重建超级工程，28.3万张任意拍摄照片整体高精度空三处理效果（每个点是一个照片的外参数，精度远高于一日重建罗马的成果）
+![三维重建超级工程](/images/about/02.jpg)
+
+图3：案例：研究组研发的三维重建算法利用欧空局罗塞塔计划采集的“67P彗星”图像（人类第一次飞行器着陆彗星）。相机焦距约700mm，算法能够实现相机参数自检校，并自动重建彗星高精度三维模型。
+![彗星建模](/images/about/03.jpg)
+
+图4：案例：武汉大学珞珈三号01星-视频卫星数据（0.8米分辨率）重建的实景三维模型
+![珞珈卫星建模](/images/about/04.jpeg)
+
 文化遗产数字化保护（一个有温度的研究方向）
 ------
 **用技术推动文物教育的公平，让文物数字化/考古更便捷、成本更低，汇聚世界文化内容，通过互联网传递给中华文化之美。**
@@ -80,43 +89,51 @@ redirect_from:
 图：2023年4月初，课题组（老师、博士、硕士研究生）一行赴新疆喀什考察国保遗址莫尔佛塔
 ![新疆喀什考察](/images/about/05.png)
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**媒体报道：文化遗产类工作更加公益性，和人文结合紧密，我们组的相关研究工作被媒体报道，部分内容如下：**
 
-A data-driven personal website
+[注：文化遗产的数字领域使用了大量的来自研究方向一中的摄影测量（视觉）三维重建相关的技术。]
+
+1) 凤凰卫视-世纪大讲堂 (视频）：科技修复文明 [查看](https://www.bilibili.com/video/BV1Zv411j7S8?from=search&seid=4456174912863090367&spm_id_from=333.337.0.0)
+2) 美国华盛顿邮报（The Washington Post）:  Preserving the past with cutting-edge tech. [查看](https://www.washingtonpost.com/brand-studio/wp/2018/09/12/feature/preserving-the-past-with-cutting-edge-tech/)
+3) 参考消息：中国用“AI+无人机”修复长城 美媒：长城还能存在几百年. [查看](http://www.ckxx.net/zhongguo/p/122945.html)
+4) 人民日报：时光流淌 接续守望（文化遗产赋彩生活）. [查看](http://cpc.people.com.cn/n1/2021/0823/c64387-32203113.html)
+5) 武汉大学-官网报道：黄先锋团队借助人工智能技术传承长城奇迹。 [查看](https://news.whu.edu.cn/info/1015/51729.htm)
+6) 武汉大学-官微：内容：武大+敦煌，在错位时空里相拥！ [查看](https://mp.weixin.qq.com/s/mT0mab1Z7VyfbIenh2fFDg)
+7) 人民日报-海外版： 2021年11月： 云冈、敦煌的数字化再现-武汉大学武汉大学教授黄先锋用三维数字重建技术助力文化遗产保护。 [查看](http://gs.people.com.cn/n2/2021/1110/c358184-34998172.html)
+8) 湖北日报-数字化技术让消逝的翁丁古寨在云端“活”过来. [查看](http://hbrbshare.hubeidaily.net/hbshare/news/detail_index.html?contentType=5&contentId=882142&cId=0)
+9) 山西晚报- 一个叫“刀剑”的普通小伙，无意中让燃烧的翁丁古寨“活”起来了. [查看](https://xw.qq.com/cmsid/20211201A0CF4700?f=newdc)
+10) 武汉大学-官网报道：参与2022中国十大考古发现，云梦考古数字化。[查看](http://news.whu.edu.cn/info/1015/66853.htm)
+11) 云冈石窟流失海外佛像所在洞窟启动数字化保护（使用的技术是：摄影测量技术+激光扫描融合处理）[查看](https://www.chinanews.com.cn/cul/2022/06-10/9777092.shtml)
+12) 武汉大学报道：郧县考古。[查看](http://news.whu.edu.cn/info/1015/68030.htm)
+13) 小组博士和硕士生参与了郧县重大考古发现的数字化记录工作。郧县考古发现头盖骨被Nature报道：[查看](https://www.nature.com/articles/d41586-022-04142-0。)
+14) 武汉大学联合考古发掘项目入选“2022年全国十大考古新发现” [查看](https://news.whu.edu.cn/info/1015/69315.htm)
+15) CCTV13 套新闻直播间。武当山数字化保护相关工作。[查看](https://tv.cctv.com/2024/01/28/VIDEm8YijTv9cZWLlcsnT93S240128.shtml)
+16) 武大新闻网（再次报道数字武当山相关工作）. [查看](https://news.whu.edu.cn/info/1013/452517.htm)
+17)  武大新闻网. 武汉大学参与的考古工作成果“郧县人”写进人教版初中历史教科书. [查看](https://news.whu.edu.cn/info/1015/464437.htm)
+18) 光明日报。武汉大学考古工作成果——“郧县人”写进人教版初中历史教科书.  [查看](https://www.peopleapp.com/rmharticle/30046433623)
+
+
+技术应用部分场景与合作机构：
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+三维重建是一个基础性技术，应用场景极其广泛，合作包括大学、科研机构、智慧城市、自动驾驶、测绘系统、XX应用、3D打印、文博单位等。
 
-Getting started
+科技类：
+![科技类合作单位](/images/about/4-1.jpg)
+
+文化类：
+![文化类合作单位](/images/about/4-2.jpg)
+
+[注：(1) 部分合作机构，没有列全，有的logo不好找; (2) 排名没有顺序，只考虑了怎么排整齐。]
+
+
+奖项
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. 2023，广西八桂人工智能科学技术奖**一等奖**，基于实景三维的全域土地综合整治质量监管与成效评估技术与应用，**个人排名（1）**
+2. 2023，测绘科技进步**一等奖**，空天地多源融合实景三维建模关键技术与工具体系，**个人排名（1）**
+3. 2023，地理信息科技进步**一等奖**，大型复杂文化遗产多尺度精细化三维建模关键技术与应用，**个人排名（1）**
+4. 2022，中国测绘科技进步**二等奖**，北京冬奥会雪上场馆全生命周期测绘保障服务关键技术，**个人排名（9）**
+5. 2020，甘肃省科技进步**一等奖**，多元异构的敦煌石窟数字化保护关键技术研发与应用推广，**个人排名（6）**
+6. 2015，广西自治区技进步**二等奖**，文化遗产三维数字化保护与展示的关键技术研究及在靖江王陵的应用，**个人排名（6）**
+7. 2003，中国测绘科技进步**二等奖**，三维数字化建模软件研发与应用，**个人排名（3）**
