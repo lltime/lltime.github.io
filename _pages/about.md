@@ -9,20 +9,35 @@ redirect_from:
 
 黄先锋，博士，教授，博导。
 
+TAG：`酷爱编程`，`对算法充满兴趣`，`喜欢挑战`，`不喜欢循规蹈矩`
+信条：科学无权威。
+
 现任：
 - 武汉大学测绘遥感信息工程国家重点实验室 航空航天摄影测量研究室 主任                        
 - 香港科技大学(广州）兼职教授
 - 武汉大学 教育部文科实验室文化遗产智能计算实验室 副主任
 - 武汉大学 长江文明考古研究院 文物数字化技术研究室 副主任
 
-关于 我：酷爱编程，对算法充满兴趣，喜欢挑战，不喜欢循规蹈矩；
 
-信   条：科学无权威。
-
-**在努力推动摄影测量技术应用与发展......**
-
+**努力推动摄影测量技术应用与发展......**
 1. 历时10+年带队打造大规模自动影像三维重建集群（云）软件-重建大师，实现了基于影像三维重建核心技术的国产化替代，能够完全替换国外软件，支撑实景三维中国建设和各种场景快速高精度建模的需要。
-2. 云端地球：https://www.get3d.cn/  用电脑打开，不要用手机！在线自动三维重建云服务。
+2. [云端地球](https://www.get3d.cn/) 在线自动三维重建云服务。（用电脑打开，不要用手机！）
+
+研究方向：
+- 摄影测量/计算机视觉（航空& 近景，3DGS，AIGC 3D，包括：实时三维重建、场景理解、点云、视觉、卫星/行星测图）
+- 文物数字化（摄影测量+激光扫描文物数字化，包括：考古数字化、大遗址/文物数字化、数字化技术与文物保护）
+
+学习工作经历
+======
+2013~ 今，  武汉大学 测绘遥感信息工程国家重点实验室 教授，博导，程序员
+2012~2013，苏黎世联邦理工学院（ETH Zurich）未来城市实验室（Future Cities Lab） Senior Reseacher
+2011~2012，微软亚洲研究院（Microsoft Research Asia)，Visiting Resercher
+2008~2011，武汉大学 测绘遥感信息工程国家重点实验室 副教授，硕士生导师
+2006~2008，武汉大学 测绘遥感信息工程国家重点实验室 讲师
+2003~2006，博士，武汉大学 测绘遥感信息工程国家重点实验室  摄影测量与遥感专业
+2000~2003，硕士，武汉大学 计算机学院 计算机应用技术
+1996~2000，本科，武汉测绘科技大学（武汉大学）；辅修 华中理工大学（华中科技大学） 计算机应用技术
+
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
