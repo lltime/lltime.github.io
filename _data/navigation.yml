@@ -9,7 +9,7 @@ main:
     url: /
 
   - title: "团队"
-    url: /
+    url: /team/
 
   - title: "论文"
     url: /publications/
