@@ -9,6 +9,7 @@ redirect_from:
 
 
 ![测绘遥感信息工程国家重点实验室](/images/team/logo-img.png)
+----
 ![武汉大学文化遗产智能计算实验室](/images/team/logo2.png)
 
 
