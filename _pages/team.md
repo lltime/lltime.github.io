@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "team"
+title: "团队"
 author_profile: true
 redirect_from: 
   - /team/
@@ -9,6 +9,8 @@ redirect_from:
 
 
 ![测绘遥感信息工程国家重点实验室](/images/team/logo-img.png)
+![武汉大学文化遗产智能计算实验室](/images/team/logo2.png)
+
 
 ## 研究生招生要求
 
